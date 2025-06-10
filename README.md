@@ -10,7 +10,7 @@
 6.  [Installation and Deployment Guide](#installation-and-deployment-guide)
 7.  [Real User Success Stories](#real-user-success-stories)
 8.  [Results and Statistics](#results-and-statistics)
-9.  [Code Example (Ethereum Optimized)](#code-example-ethereum-optimized)
+9.  [Code Example (Ethereum Optimized)](#9-code-example-ethereum-optimized)
 10. [Purchase and Usage Guide](#purchase-and-usage-guide)
 11. [Conclusion](#conclusion)
 
