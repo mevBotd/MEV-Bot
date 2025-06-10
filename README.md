@@ -14,7 +14,7 @@
 10. [Purchase and Usage Guide](#purchase-and-usage-guide)
 11. [Conclusion](#conclusion)
 
-## 1. [Introduction  ][⬆️](#table-of-contents)
+## 1. [Introduction  ⬆️(#table-of-contents)]
 
 Have you ever dreamed of navigating the volatile crypto world like a Wall Street quant trader, automatically capturing profits through algorithms? Now is your chance! Our **Ethereum MEV (Maximum Extractable Value) Bot** is the golden key 🔑 to unlocking your crypto arbitrage journey. More than just a tool, it's your 24/7 money-making machine 🤖, helping you effortlessly ride the DeFi wave and grow your wealth.
 
